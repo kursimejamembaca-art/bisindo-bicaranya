@@ -1,0 +1,15 @@
+{
+  "name": "BISINDO Bicara",
+  "short_name": "BISINDO",
+  "description": "Penerjemah bahasa isyarat BISINDO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8ff",
+  "theme_color": "#1e4fb5",
+  "lang": "id",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
